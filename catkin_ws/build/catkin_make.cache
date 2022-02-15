@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/jyoti/AuE8230Spring22__SivaJyothiKarna/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jyoti/AuE8230Spring22__SivaJyothiKarna/catkin_ws/install -G Unix Makefiles
